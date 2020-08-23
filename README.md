@@ -1,8 +1,8 @@
 # Crusade Tracker
 
 This application is meant to schedule places, dates and times for [Warhammer 40,000](https://www.warhammer-community.com/) players to schedule games with each other and track information for the game's Crusade mode.  
-Additiaonally, this application digitally tracks wargear, battle honors, battle scars, statistic modifiers etc. of individual units that comprise a player's Crusade army. It also records the resources that a player has available to them to spend on army upgrades as well as any purchased upgrades themselves.  
-Victories and losses are recorded and visible to players that participate in Crusades together.
+Additionally, this application digitally tracks wargear, battle honors, battle scars, statistic modifiers etc. of individual units that comprise a player's Crusade army. It also records the resources that a player has available to them to spend on army upgrades as well as any purchased upgrades themselves.  
+Victories and losses are recorded and are visible to players that participate in Crusades together.
 
 
 ## Getting Started

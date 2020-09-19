@@ -12537,23 +12537,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MacDo\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\BigPapaG\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MacDo\\source\\repos\\CrusadeTracker\\CrusadeTracker\\CrusadeTracker.csproj",
+      "projectUniqueName": "C:\\Users\\BigPapaG\\Pictures\\CrusadeTracker\\CrusadeTracker\\CrusadeTracker.csproj",
       "projectName": "CrusadeTracker",
-      "projectPath": "C:\\Users\\MacDo\\source\\repos\\CrusadeTracker\\CrusadeTracker\\CrusadeTracker.csproj",
-      "packagesPath": "C:\\Users\\MacDo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MacDo\\source\\repos\\CrusadeTracker\\CrusadeTracker\\obj\\",
+      "projectPath": "C:\\Users\\BigPapaG\\Pictures\\CrusadeTracker\\CrusadeTracker\\CrusadeTracker.csproj",
+      "packagesPath": "C:\\Users\\BigPapaG\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BigPapaG\\Pictures\\CrusadeTracker\\CrusadeTracker\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MacDo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BigPapaG\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12589,6 +12585,7 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -12599,10 +12596,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
